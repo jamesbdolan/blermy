@@ -2,7 +2,7 @@
 
 [Main readme](README.md)
 
-I followed this [tutorial](https://www.postgresql.org/docs/current/tutorial.html).
+I read all of this [tutorial](https://www.postgresql.org/docs/current/tutorial.html).
 
 ## Notes
 
